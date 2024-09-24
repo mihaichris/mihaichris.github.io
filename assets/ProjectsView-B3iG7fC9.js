@@ -1,0 +1,1 @@
+import{_ as o,P as t,c as s,e as c,o as r,f as n}from"./index-DcRJnslc.js";const a={name:"ProjectsView",components:{ProjectsGrid:t}},_={class:"container mx-auto"};function i(p,d,m,f,l,P){const e=n("ProjectsGrid");return r(),s("div",_,[c(e)])}const u=o(a,[["render",i]]);export{u as default};
