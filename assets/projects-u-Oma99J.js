@@ -1,0 +1,1 @@
+var e=class{static WEB_APPLICATION=`Web Application`;static PACKAGE_API=`Package API`;static MACHINE_LEARNING_MODEL=`Machine Learning Model`},t=[];export{e as n,t};
